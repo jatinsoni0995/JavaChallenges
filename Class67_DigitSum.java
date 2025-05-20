@@ -1,4 +1,4 @@
-public class Class67_DigitSum {
+public class DigitSum {
     public static void main(String[] args) {
 
        // sumDigits(125);
